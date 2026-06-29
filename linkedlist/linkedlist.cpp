@@ -41,3 +41,8 @@ void InsertAtEnd(ListNode** head,int data){
     current->next = newNode;
     
 }   
+
+int main(){
+  std::cout << "Hello, world!\n";
+  return 0;
+}
